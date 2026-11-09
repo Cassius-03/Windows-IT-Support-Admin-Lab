@@ -45,13 +45,21 @@ Module	Topic	Status
 
 
 01	Windows System Inventory	In Progress
+
 02	Local User Administration	Planned
+
 03	NTFS File Permissions	Planned
+
 04	Windows Services	Planned
+
 05	Windows Event Viewer	Planned
+
 06	Network Troubleshooting	Planned
+
 07	Performance Monitoring	Planned
+
 08	PowerShell Automation	Planned
+
 09	Final IT Support Assessment	Planned
 
 Learning Approach
