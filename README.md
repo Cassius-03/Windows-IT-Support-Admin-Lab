@@ -28,15 +28,22 @@ I am simulating the role of an entry-level IT Support Technician responsible for
 
 
 windows-it-support-administration-lab/
+
 │
+
 ├── documentation/
+
 ├── powershell-scripts/
+
 ├── screenshots/
+
 └── support-tickets/
 
 **Practical Modules**
 
 Module	Topic	Status
+
+
 01	Windows System Inventory	In Progress
 02	Local User Administration	Planned
 03	NTFS File Permissions	Planned
